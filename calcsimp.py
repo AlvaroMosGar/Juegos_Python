@@ -7,7 +7,7 @@
 # 4. División
 # 5. Factorial
 # 6. Potencia
-# 7. Es primo.
+# 7. Es primo?.
 # 8. Salir
 
 # 1
@@ -70,7 +70,7 @@ def primo():
 # Funcion main del programa
 def menu():
   while True:
-    calculo = int(input("1. Suma\n2. Resta\n3. Multiplicaión\n4. División\n5. Factorial\n6. Potencia\n7. Es primo\n8. Salir: "))
+    calculo = int(input("1. Suma\n2. Resta\n3. Multiplicaión\n4. División\n5. Factorial\n6. Potencia\n7. Es primo?\n8. Salir: "))
     if calculo == 8:
       break
 
