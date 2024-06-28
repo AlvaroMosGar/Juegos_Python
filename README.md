@@ -66,3 +66,6 @@ pueden hacer un ataque normal (pero si quieres complicarlo más le puedes poner 
 
 Una vez acabado la partida sea ganada o perdida, se preguntará al usuario si quiere volver a 
 jugar o no.
+
+Ayuda: Para este juego es necesario saber como van las clases <a href="https://ellibrodepython.com/programacion-orientada-a-objetos-python">documentación</a>
+y <a href="https://www.youtube.com/watch?v=JVNirg9qs4M&t=535s">video</a>.
