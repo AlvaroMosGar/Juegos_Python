@@ -9,7 +9,7 @@ que se inicien en este lenguaje puedan practicar e intentar hacerlos.
 2. [Ahorcado](#ahorcado)
 3. [Dungeon Magic](#dungeon-magic)
 
-#### Calculadora Simple
+## Calculadora Simple
 Realiza una calculadora que contenga el siguiente menu:
 1) Suma
 2) Resta
@@ -25,7 +25,7 @@ En cada operación se pedirán al usuario que introduzca dos números salvo en e
 "Factorial" y en el "Es primo?", en esos casos solo se le introducirán un número.
 Además en el "Es primo?" deberá de comprobar y mostrar si es primo o no lo es.
 
-#### Ahorcado
+## Ahorcado
 Recrea el Juego del ahorcado, el juego será de dos jugadores. Uno escribe la 
 palabra (ojo solo quiero una palabra, pero si te quieres complicar más puedes hacerlo de varias) 
 y el otro acierta. Cuando empieze el juego deverá de aparecer la palabra escondida con guiones bajos "_"
@@ -35,7 +35,7 @@ El personaje completo sería este: print("-----\n|   |\n|   O  \n| --|--\n|   |\
 
 Ayuda: El juego requiere recorrer <a href="https://ellibrodepython.com/cadenas-python" target="_blank">cadenas</a>.
 
-#### Dungeon Magic
+## Dungeon Magic
 Crea un juego rpg por turnos, serás un heroe que te dan a elegir al inicio 3 clases diferentes que serán:
 
 1) Guerrero -> 200 de vida y 50 de daño.
