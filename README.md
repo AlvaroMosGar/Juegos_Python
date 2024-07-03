@@ -7,7 +7,8 @@ que se inicien en este lenguaje puedan practicar e intentar hacerlos.
 ## Enunciados:
 1. [Calculadora Simple](#calculadora-simple)
 2. [Ahorcado](#ahorcado)
-3. [Dungeon Magic](#dungeon-magic)
+3. [Tres en Raya](#tres-en-raya)
+4. [Dungeon Magic](#dungeon-magic)
 
 ## Calculadora Simple
 Realiza una calculadora que contenga el siguiente menu:
@@ -34,6 +35,21 @@ y con un espacio en cada letra.
 El personaje completo sería este: print("-----\n|   |\n|   O  \n| --|--\n|   |\n|  / \ ")
 
 Ayuda: El juego requiere recorrer <a href="https://ellibrodepython.com/cadenas-python" target="_blank">cadenas</a>.
+
+## Tres en Raya
+Reacrea el juego del 3 en raya. Para el jugador uno tendrá este emoji ❌, para el 
+jugador 2 tendrá 🔘 este emoji y para el tablero en blanco utilizará este ⬜.
+
+El tablero tendrá este aspecto con estas posiciones:
+
+|1 |2 |3 |
+|--|--|--|
+|4 |5 |6 |
+|7 |8 |9 |
+
+El tablero claramente estará en una matriz.
+
+Ayuda: El juego requiere listas y matrizes aquí tienes su <a href="https://elpythonista.com/listas-python" target="_blanlk">documentación</a>.
 
 ## Dungeon Magic
 Crea un juego rpg por turnos, serás un heroe que te dan a elegir al inicio 3 clases diferentes que serán:
