@@ -1,3 +1,6 @@
+## Novedades:
+- Archivos ordenados en carpetas.
+
 # Juegos en Python
 
 ## ¿De que trata este repositorio?
