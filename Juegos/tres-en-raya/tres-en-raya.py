@@ -154,12 +154,15 @@ def juego_ini():
     tabl = obtener_tablero_blanco()
     pintar_tablero(tabl)
 
-    while True:
+    for _ in range(5):
         tabl=pintar_tablero_jugador("jugador1",tabl)
         if comprobar_win(1,tabl):
             print("El jugador 1 ha ganado!!!!")
             break
         pintar_tablero(tabl)
+        if _ == 4:
+            print("Empatee!!!")
+            break
         tabl = pintar_tablero_jugador("jugador2",tabl)
         if comprobar_win(2,tabl):
             print("El jugador 2 ha ganado!!!!")
